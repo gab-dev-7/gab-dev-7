@@ -1,71 +1,37 @@
-# Gabriel Windlin 🌐
+# 👋 Hi, I'm Gabriel Windlin
 
-**Systems Engineer @ ETHZ** | **Kubernetes & Linux Specialist** | Building infrastructure that scales
+**Computer Science Student | Systems & Security Enthusiast | Full-Stack Developer**
 
----
-
-## 📌 About Me
-- Computer Science student at ETH Zürich (Expected Graduation: 2028)
-- Infrastructure Team Member at [VIS ETHZ](https://vis.ethz.ch) - deploying and maintaining Kubernetes clusters for student services
-- Focused on **systems engineering**, **cloud-native infrastructure**, and **Linux internals**
-- Currently learning: Advanced Kubernetes patterns and distributed systems design
+I'm a Bachelor's student in Computer Science at ETHZ, passionate about building efficient systems, robust security tools, and clean, user-friendly applications. I enjoy working across the entire stack, from low-level socket programming in C to modern web frameworks.
 
 ---
 
-## 🛠️ Professional Projects
+### 🛠️ Technologies & Skills
 
-### [Rallly Self-Hosting](https://github.com/gab-dev-7/rally-selfhosted)
-- Deployed open-source scheduling tool on VIS ETHZ's local cluster using Kubernetes
-- Configured container orchestration and networking for reliable student services
-- *Tech: Kubernetes, Docker, Linux*
-
-### [VIS ETHZ Infrastructure](https://github.com/vis-ethz)
-- Contribute to maintaining on-premise server resources for ETHZ's Computer Science Association
-- *Tech: Linux, Cluster Management, Monitoring*
+*   **Languages:** Java, Python, C, JavaScript/TypeScript, HTML/CSS, Shell
+*   **Frameworks & Tools:** Spring Boot, React, Tailwind CSS, Jekyll, Astro
+*   **Systems & DevOps:** Linux, Docker, Kubernetes, Git
 
 ---
 
-## ⚙️ Systems & Infrastructure Projects
+### 🚀 Featured Projects
 
-### [Dotfiles Configuration](https://github.com/gab-dev-7/dotfiles)
-- Minimal, keyboard-centric Arch Linux setup with Hyprland window manager
-- *Tech: Shell, Lua, Arch Linux, Hyprland*
+Here's a selection of my work that showcases my interests and capabilities:
 
-### [Port Scanner](https://github.com/gab-dev-7/port-scanner)
-- High-performance TCP scanner in C using non-blocking sockets
-- *Tech: C, POSIX Sockets, Networking*
+#### **Systems & Security**
+*   **[TCP Port Scanner](https://github.com/gab-dev-7/tcp-port-scanner):** A high-performance TCP connect() scanner in C using non-blocking sockets and `select()` for precise control.
+*   **[SEC-SUITE](https://github.com/gab-dev-7/sec-suite):** A comprehensive security toolkit featuring multi-threaded password cracking, modern hash algorithm support, and various security utilities.
+*   **[Dotfiles](https://github.com/gab-dev7/dotfiles):** My minimal, keyboard-driven Arch Linux configuration featuring Hyprland, Neovim, and Kitty.
 
----
-
-## 🌐 Web & Full-Stack Projects
-
-### [Personal Portfolio](https://gawindlin.com)
-- Responsive portfolio site with Neovim-inspired design
-- *Tech: Astro, Tailwind CSS, TypeScript*
-
-### [Matrix Calculator](https://github.com/gab-dev-7/matrix-calculator)
-- Web-based matrix operations tool
-- *Tech: React, Spring Boot, Java*
+#### **Web Development & Applications**
+*   **[Screen Savor](https://github.com/gab-dev-7/screen-savor):** A responsive movie discovery web app that integrates with the TMDB API to browse trending films and view details.
+*   **[Matrix Calculator](https://github.com/gab-dev-7/matrix-calculator):** A full-stack web application with a React frontend and Spring Boot backend for performing various matrix operations.
+*   **[Personal Portfolio](https://gawindlin.com):** My responsive personal website, built with a modern UI/UX and an integrated, dynamically-loaded CV.
 
 ---
 
-## 🔧 Technical Skills
+### 📫 Let's Connect
 
-| Category       | Technologies                                                                 |
-|----------------|----------------------------------------------------------------------------|
-| **Languages**  | C, Python, Java, JavaScript, TypeScript, Shell, Lua                       |
-| **Systems**    | Linux, Kubernetes, Docker, Cloud Native, Networking                        |
-| **Tools**      | Git, Neovim, Zsh, tmux, Waybar, Hyprland                                  |
-| **Frameworks** | Spring Boot, React, Astro, Tailwind CSS                                    |
-
----
-
-## 📈 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gab-dev-7&show_icons=true&theme=dark)
-
----
-
-## 🔗 Connect With Me
-- 🌐 [Personal Website](https://gawindlin.com)
-- 💼 [LinkedIn](https://linkedin.com/in/gabriel-windlin)
-- ✉️ gawindlin@gmail.com
+*   **Website & Portfolio:** [gawindlin.com](https://gawindlin.com)
+*   **LinkedIn:** [linkedin.com/in/gabriel-windlin](https://linkedin.com/in/gabriel-windlin)
+*   **Email:** [gawindlin@gmail.com](mailto:gawindlin@gmail.com)
