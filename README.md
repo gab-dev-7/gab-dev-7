@@ -30,14 +30,14 @@ Here's a selection of my work that showcases my interests and capabilities:
 
 ---
 
-### 📊 MOnthly Development Breakdown
-
-[![Gabriel's Long Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-dev-7&theme=tokyo-night&hide_border=true&area=true&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
---- 
-
 ### 📫 Let's Connect
 
 *   **Website & Portfolio:** [gawindlin.com](https://gawindlin.com)
 *   **LinkedIn:** [linkedin.com/in/gabriel-windlin](https://linkedin.com/in/gabriel-windlin)
 *   **Email:** [gawindlin@gmail.com](mailto:gawindlin@gmail.com)
+
+---
+
+### 📊 Monthly Development Breakdown
+
+[![Gabriel's Long Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-dev-7&theme=tokyo-night&hide_border=true&area=true&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
