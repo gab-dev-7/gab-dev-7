@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel Windlin
+#  Hi, I'm Gabriel Windlin
 
 **Computer Science Student | Systems & Security Enthusiast | Full-Stack Developer**
 
@@ -6,7 +6,7 @@ I'm a Bachelor's student in Computer Science at ETHZ, passionate about building 
 
 ---
 
-### 🛠️ Technologies & Skills
+###  Technologies & Skills
 
 - **Languages:** Java, Python, C, JavaScript/TypeScript, HTML/CSS, Shell
 - **Frameworks & Tools:** Spring Boot, React, Tailwind CSS, Jekyll, Astro
@@ -14,7 +14,7 @@ I'm a Bachelor's student in Computer Science at ETHZ, passionate about building 
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 Here's a selection of my work that showcases my interests and capabilities:
 
@@ -32,7 +32,7 @@ Here's a selection of my work that showcases my interests and capabilities:
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 - **Website & Portfolio:** [gawindlin.com](https://gawindlin.com)
 - **LinkedIn:** [linkedin.com/in/gabriel-windlin](https://linkedin.com/in/gabriel-windlin)
@@ -40,6 +40,6 @@ Here's a selection of my work that showcases my interests and capabilities:
 
 ---
 
-### 📊 Monthly Development Breakdown
+###  Monthly Development Breakdown
 
 [![Gabriel's Long Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-dev-7&theme=tokyo-night&hide_border=true&area=true&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
