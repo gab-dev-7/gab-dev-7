@@ -26,8 +26,8 @@ Here's a selection of my work that showcases my interests and capabilities:
 
 #### **Web Development & Applications**
 
-- **[Screen Savor](https://github.com/gab-dev-7/screen-savor):** A responsive movie discovery web app that integrates with the TMDB API to browse trending films and view details.
-- **[Matrix Calculator](https://github.com/gab-dev-7/matrix-calculator):** A full-stack web application with a React frontend and Spring Boot backend for performing various matrix operations.
+- **[Screen Savor](https://screen-savor.gawindlin.com):** A responsive movie discovery web app that integrates with the TMDB API to browse trending films and view details.
+- **[Matrix Calculator](https://matrixcalc.gawindlin.com):** A full-stack web application with a React frontend and Spring Boot backend for performing various matrix operations.
 - **[Personal Portfolio](https://gawindlin.com):** My responsive personal website, built with a modern UI/UX and an integrated, dynamically-loaded CV.
 
 ---
