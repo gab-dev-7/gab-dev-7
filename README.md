@@ -22,7 +22,7 @@ Here's a selection of my work that showcases my interests and capabilities:
 
 - **[TCP Port Scanner](https://github.com/gab-dev-7/port-scanner):** A lightweight TCP connect() scanner in C using non-blocking sockets and `select()` for precise control.
 - **[SEC-SUITE](https://github.com/gab-dev-7/sec-suite):** A comprehensive security toolkit featuring multi-threaded password cracking, modern hash algorithm support, and various security utilities.
-- **[Dotfiles](https://github.com/gab-dev7/dotfiles):** My minimal, keyboard-driven Arch Linux configuration featuring Hyprland, Neovim, and Kitty.
+- **[Dotfiles](https://github.com/gab-dev-7/dotfiles):** My minimal, keyboard-driven Arch Linux configuration featuring Hyprland, Neovim, and Kitty.
 
 #### **Web Development & Applications**
 
