@@ -20,16 +20,21 @@ Here's a selection of my work that showcases my interests and capabilities:
 
 #### **Systems & Security**
 
-- **[Neural Network in C](https://github.com/gab-dev-7/neural_network):** A modular neural network built from scratch in pure C, featuring backpropagation, momentum, and gradient checking.
-- **[Kiroku-TUI](https://github.com/gab-dev-7/kiroku):** A high-performance terminal-based journaling tool in Rust with fuzzy search, Git-sync, and file watching.
-- **[TCP Port Scanner](https://github.com/gab-dev-7/port-scanner):** A lightweight TCP connect() scanner in C using non-blocking sockets and `select()` for precise control.
-- **[SEC-SUITE](https://github.com/gab-dev-7/sec-suite):** A comprehensive security toolkit featuring multi-threaded password cracking and modern hash algorithm support.
-- **[Dotfiles](https://github.com/gab-dev-7/dotfiles):** My minimal, keyboard-driven Arch Linux configuration featuring Hyprland, Neovim, and Kitty.
+| Project | Description |
+| :--- | :--- |
+| 🧠 **[Neural Network in C](https://github.com/gab-dev-7/neural_network)** | A modular neural network built from scratch in pure C, featuring backpropagation, momentum, and gradient checking. |
+| 🕵️ **[Raw Socket Packet Sniffer](https://github.com/gab-dev-7/packet-sniffer)** | A low-level network analysis tool built with raw sockets to capture and parse Ethernet frames and network protocols. |
+| 📓 **[Kiroku-TUI](https://github.com/gab-dev-7/kiroku)** | A high-performance terminal-based journaling tool in Rust with fuzzy search, Git-sync, and file watching. |
+| 📡 **[TCP Port Scanner](https://github.com/gab-dev-7/port-scanner)** | A lightweight TCP connect() scanner in C using non-blocking sockets and `select()` for precise control. |
+| 🛡️ **[SEC-SUITE](https://github.com/gab-dev-7/sec-suite)** | A comprehensive security toolkit featuring multi-threaded password cracking and modern hash algorithm support. |
+| ⚙️ **[Dotfiles](https://github.com/gab-dev-7/dotfiles)** | My minimal, keyboard-driven Arch Linux configuration featuring Hyprland, Neovim, and Kitty. |
 
 #### **Web Development & Applications**
 
-- **[Our Place](https://github.com/gab-dev-7/our-place):** A collaborative digital space featuring real-time media sync, interactive memory maps, and a gamified relationship tracker.
-- **[Matrix Calculator](https://github.com/gab-dev-7/MatrixCalculator):** A full-stack web application with a React frontend and Spring Boot backend for performing various matrix operations.
+| Project | Description |
+| :--- | :--- |
+| 💑 **[Our Place](https://github.com/gab-dev-7/our-place)** | A collaborative digital space featuring real-time media sync, interactive memory maps, and a gamified relationship tracker. |
+| 🧮 **[Matrix Calculator](https://github.com/gab-dev-7/MatrixCalculator)** | A full-stack web application with a React frontend and Spring Boot backend for performing various matrix operations. |
 
 ---
 
