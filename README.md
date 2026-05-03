@@ -2,40 +2,24 @@
 
 **Computer Science Student | Systems & Security Enthusiast | Full-Stack Developer**
 
-I'm a Bachelor's student in Computer Science at ETHZ, passionate about building efficient systems, robust security tools, and clean, user-friendly applications. I enjoy working across the entire stack, from low-level socket programming in C to modern web frameworks.
-
----
-
-### Technologies & Skills
-
-- **Languages:** Java, Python, C, Rust, JavaScript/TypeScript, SQL, Shell
-- **Frameworks & Tools:** React, Ratatui, Supabase, Spring Boot, Framer Motion, Tailwind CSS
-- **Systems & DevOps:** Linux, Docker, Kubernetes, Git, Caddy, CrowdSec
-
----
-
-### Featured Projects
-
 Here's a selection of my work that showcases my interests and capabilities:
 
-#### **Systems & Security**
-
-| Project | Description |
-| :--- | :--- |
-| **[Neural Network in C](https://github.com/gab-dev-7/neural_network)** | A modular neural network built from scratch in pure C, featuring backpropagation, momentum, and gradient checking. |
-| **[Raw Socket Packet Sniffer](https://github.com/gab-dev-7/packet-sniffer)** | A low-level network analysis tool built with raw sockets to capture and parse Ethernet frames and network protocols. |
-| **[Kiroku-TUI](https://github.com/gab-dev-7/kiroku)** | A high-performance terminal-based journaling tool in Rust with fuzzy search, Git-sync, and file watching. |
-| **[TCP Port Scanner](https://github.com/gab-dev-7/port-scanner)** | A lightweight TCP connect() scanner in C using non-blocking sockets and `select()` for precise control. |
-| **[SEC-SUITE](https://github.com/gab-dev-7/sec-suite)** | A comprehensive security toolkit featuring multi-threaded password cracking and modern hash algorithm support. |
-| **[Dotfiles](https://github.com/gab-dev-7/dotfiles)** | My minimal, keyboard-driven Arch Linux configuration featuring Hyprland, Neovim, and Kitty. |
-
-#### **Web Development & Applications**
-
-| Project | Description |
-| :--- | :--- |
-| **[Website & Portfolio](https://gawindlin.com)** | My personal website and portfolio. |
-| **[Our Place](https://github.com/gab-dev-7/our-place)** | A collaborative digital space featuring real-time media sync, interactive memory maps, and a gamified relationship tracker. |
-| **[Matrix Calculator](https://github.com/gab-dev-7/MatrixCalculator)** | A full-stack web application with a React frontend and Spring Boot backend for performing various matrix operations. |
+| Project                                                                      | Description                                                                                                                 |
+| :--------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| **[Neural Network in C](https://codeberg.org/0xShred/neural-network)**       | A modular neural network built from scratch in pure C, featuring backpropagation, momentum, and gradient checking.          |
+| **[Raw Socket Packet Sniffer](https://codeberg.org/0xShred/packet-sniffer)** | A low-level network analysis tool built with raw sockets to capture and parse Ethernet frames and network protocols.        |
+| **[Kiroku-TUI](https://codeberg.org/0xShred/kiroku)**                        | A high-performance terminal-based journaling tool in Rust with fuzzy search, Git-sync, and file watching.                   |
+| **[TCP Port Scanner](https://codeberg.org/0xShred/port-scanner)**            | A lightweight TCP connect() scanner in C using non-blocking sockets and `select()` for precise control.                     |
+| **[SEC-SUITE](https://codeberg.org/0xShred/sec-suite)**                      | A comprehensive security toolkit featuring multi-threaded password cracking and modern hash algorithm support.              |
+| **[Dotfiles](https://codeberg.org/0xShred/dotfiles)**                        | My minimal, keyboard-driven Arch Linux configuration featuring Hyprland, Neovim, and Kitty.                                 |
+| **[Website & Portfolio](https://gawindlin.com)**                             | My personal website and portfolio.                                                                                          |
+| **[Our Place](https://codeberg.org/0xShred/our-place)**                      | A collaborative digital space featuring real-time media sync, interactive memory maps, and a gamified relationship tracker. |
+| **[Matrix Calculator](https://codeberg.org/0xShred/MatrixCalculator)**       | A full-stack web application with a React frontend and Spring Boot backend for performing various matrix operations.        |
+| **[Guitar / Bitcrusher](https://codeberg.org/0xShred/guitar)**               | A real-time audio effects processor in C using JACK and Raylib, with bit-depth reduction, drive, tone, and tremolo.        |
+| **[VulnScope](https://codeberg.org/0xShred/vuln-scope)**                     | CVE lookup and exploit aggregation tool pulling from NVD, CISA KEV, and GitHub PoCs, with a terminal dark-mode UI.         |
+| **[CPU Monitor](https://codeberg.org/0xShred/cpu-monitor)**                  | A Bash per-core CPU usage monitor with Pac-Man style progress bars reading directly from `/proc/stat`.                     |
+| **[Algorithms](https://codeberg.org/0xShred/algorithms)**                    | Essential algorithms and data structures in Java — sorting, graph algorithms, dynamic programming, and more.               |
+| **[Screen Savor](https://codeberg.org/0xShred/screen-savor)**                | A movie discovery web app built with vanilla JS and the TMDB API for browsing, searching, and previewing films.            |
 
 ---
 
@@ -46,6 +30,4 @@ Here's a selection of my work that showcases my interests and capabilities:
 
 ---
 
-### Monthly Development Breakdown
-
-[![Gabriel's Long Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-dev-7&theme=tokyo-night&hide_border=true&area=true&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> My projects have moved to **[Codeberg](https://codeberg.org/0xShred)** — all active development happens there.
